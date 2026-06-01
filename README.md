@@ -4,34 +4,21 @@ Repositório dedicado à documentação de laboratórios práticos realizados na
 
 ## Áreas exploradas
 
-- Arquitetura de Infraestrutura
-- Desenvolvimento Serverless
+- Backend
+- Cloud Computing
+- Automação
+- Infraestrutura
+- Arquitetura Serverless
 - Banco de Dados
-- Automação Cloud
-- Escalabilidade e Alta Disponibilidade
 
 ## Laboratórios
 
 | Laboratório | Serviços AWS | Conceitos |
 |------------|------------|------------|
-| Jogo de Adivinhação Serverless | Lambda, API Gateway, S3 | APIs, Serverless |
-| Versionamento de Funções Lambda | Lambda, API Gateway | Versionamento, Ambientes |
-| Automação de EC2 | Lambda, EventBridge, EC2 | Automação, boto3 |
-| VPC com Sub-redes Públicas e Privadas | VPC, NAT Gateway, EC2 | Redes e Segurança |
-| Arquitetura Escalável | ALB, Auto Scaling, CloudWatch | Alta Disponibilidade |
-| Armazenamento Compartilhado | EFS, EC2 | Storage Distribuído |
-| Amazon RDS | RDS, EC2 | Banco de Dados |
-
-## Tecnologias e Serviços AWS
-- Amazon EC2
-- AWS Lambda
-- Amazon API Gateway
-- Amazon RDS
-- Amazon VPC
-- Amazon EFS
-- Elastic Load Balancer
-- Auto Scaling
-- Amazon CloudWatch
-- Amazon EventBridge
-- AWS IAM
-- Python (boto3)
+| Jogo de Adivinhação Serverless | AWS Lambda, Amazon API Gateway, Amazon S3 | APIs, Arquitetura Serverless |
+| Versionamento de Funções Lambda | AWS Lambda, Amazon API Gateway | Versionamento, Aliases, Ambientes (Dev/Prod) |
+| Automação de EC2 | AWS Lambda, Amazon EventBridge, Amazon EC2 | Automação, boto3, Arquitetura Orientada a Eventos |
+| VPC com Sub-redes Públicas e Privadas | Amazon VPC, NAT Gateway, Amazon EC2, Internet Gateway | Redes, Segurança, Isolamento de Ambientes |
+| Arquitetura Escalável | Application Load Balancer (ALB), Auto Scaling, Amazon CloudWatch, Amazon EC2 | Alta Disponibilidade, Escalabilidade, Observabilidade |
+| Armazenamento Compartilhado | Amazon EFS, Amazon EC2 | Armazenamento Distribuído, Compartilhamento de Dados |
+| Amazon RDS | Amazon RDS (MySQL), Amazon EC2 | Banco de Dados Relacional, Alta Disponibilidade, Integração de Aplicações |
