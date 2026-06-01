@@ -35,5 +35,5 @@ Repositório dedicado à documentação de laboratórios práticos realizados na
 - Auto Scaling
 - Amazon CloudWatch
 - Amazon EventBridge
-- IAM
+- AWS IAM
 - Python (boto3)
