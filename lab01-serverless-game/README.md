@@ -36,13 +36,15 @@ Resposta ao usuário
 
 ## Evidências
 
+## Evidências
+
 ### Arquitetura da Solução
 
 ![Arquitetura](images/Arquitetura.jpg)
 
 ### Aplicação em Execução
 
-![Aplicação](images/site funcionando.jpg)
+![Aplicação](images/site-funcionando.jpg)
 
 ### Implementação da Função Lambda
 
@@ -50,8 +52,8 @@ Resposta ao usuário
 
 ### Configuração da API Gateway
 
-![API Gateway](images/API Gateway configurada.jpg)
+![API Gateway](images/APIGateway-configurada.jpg)
 
 ### Hospedagem no Amazon S3
 
-![S3](images/S3 no seu post.jpg)
+![S3](images/S3-no-seu-post.jpg)
