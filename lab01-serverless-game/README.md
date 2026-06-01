@@ -36,8 +36,6 @@ Resposta ao usuário
 
 ## Evidências
 
-## Evidências
-
 ### Arquitetura da Solução
 
 ![Arquitetura](images/Arquitetura.jpg)
