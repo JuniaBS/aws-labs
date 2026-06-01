@@ -12,14 +12,28 @@ Repositório dedicado à documentação de laboratórios práticos realizados na
 
 ## Laboratórios
 
-### Infrastructure
+### Infraestrutura
 - VPC com Sub-redes Públicas e Privadas
 - Arquitetura Escalável com Auto Scaling
 - Amazon RDS com Aplicação Web
 
-### Automation
+### Automação
 - Automação de EC2 com Lambda e EventBridge
 
 ### Backend
 - Jogo de Adivinhação Serverless
 - Versionamento de Funções Lambda
+
+## Tecnologias e Serviços AWS
+- Amazon EC2
+- AWS Lambda
+- Amazon API Gateway
+- Amazon RDS
+- Amazon VPC
+- Amazon EFS
+- Elastic Load Balancer
+- Auto Scaling
+- Amazon CloudWatch
+- Amazon EventBridge
+- IAM
+- Python (boto3)
