@@ -2,7 +2,7 @@
 
 Repositório dedicado à documentação de laboratórios práticos realizados na AWS, com foco em desenvolvimento backend, computação em nuvem, automação e arquitetura de soluções.
 
-## Áreas exploradas
+## Competências Desenvolvidas
 
 - Backend
 - Cloud Computing
