@@ -51,16 +51,16 @@ Ambientes Separados
 
 ### Arquitetura da Solução
 
-![Arquitetura](images/arquitetura.jpeg)
+![Arquitetura da Solução](images/arquitetura-solucao.jpeg)
 
 ### Versionamento e Aliases da Função Lambda
 
-![Versões](images/LambaFuncoes.jpeg)
+![Versionamento e Aliases](images/versoes-aliases.jpeg)
 
 ### Configuração dos Stages no API Gateway
 
-![API Gateway](images/ApiGateway.jpeg)
+![Stages Dev e Prod](images/stages-dev-prod.jpeg)
 
 ### Validação dos Ambientes Dev e Prod
 
-![Ambientes](images/ambientes.jpeg)
+![Validação dos Ambientes](images/validacao-ambientes.jpeg)
