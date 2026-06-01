@@ -49,11 +49,11 @@ Encerramento Automático da Instância
 
 ### Arquitetura da Solução
 
-![Arquitetura](images/arquitetura-automacao.jpeg)
+![Arquitetura](images/arquitetura.jpeg)
 
 ### Configuração do Gatilho no EventBridge
 
-![EventBridge](images/eventbridge-gatilho.jpeg)
+![EventBridge](images/event-bridge-gatilho.jpeg)
 
 ### Implementação da Função Lambda
 
