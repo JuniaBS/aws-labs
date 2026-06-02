@@ -50,26 +50,22 @@ Instância EC2 (AZ 2)
 
 ## Evidências
 
-### Arquitetura da Solução
-
-![Arquitetura](images/arquitetura-efs.jpeg)
-
-### Configuração da VPC
+### VPC Configurada
 
 ![VPC](images/vpc-configurada.jpeg)
 
-### Configuração da Sub-rede
+### Sub-rede Pública
 
 ![Sub-rede](images/sub-rede-publica.jpeg)
 
-### Configuração das Rotas
+### Tabela de Rotas
 
 ![Rotas](images/tabela-rotas.jpeg)
 
-### Acesso à Instância EC2
+### Acesso SSH à Instância EC2
 
 ![EC2](images/acesso-ec2.jpeg)
 
-### Validação do Compartilhamento via EFS
+### Compartilhamento de Arquivos com Amazon EFS
 
 ![EFS](images/efs-compartilhado.jpeg)
