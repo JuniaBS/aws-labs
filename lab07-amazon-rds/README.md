@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Implementar uma arquitetura de banco de dados relacional gerenciado utilizando Amazon RDS (MySQL), aplicando conceitos de alta disponibilidade, segurança e integração com aplicações web.
+Implementar uma arquitetura de banco de dados relacional gerenciado utilizando Amazon RDS (MySQL), aplicando conceitos de segurança, alta disponibilidade e integração com aplicações web.
 
 ## Serviços Utilizados
 
@@ -30,12 +30,12 @@ Armazenamento Gerenciado
 
 ## Funcionalidades
 
-- Criação de instância Amazon RDS
+- Criação e configuração de uma instância Amazon RDS
 - Configuração de DB Subnet Group
 - Configuração de Security Groups
 - Integração entre aplicação web e banco de dados
-- Operações CRUD
-- Alta disponibilidade com Multi-AZ
+- Operações CRUD (inserção, edição e exclusão de dados)
+- Configuração Multi-AZ para alta disponibilidade
 
 ## Aprendizados
 
@@ -67,11 +67,3 @@ Armazenamento Gerenciado
 ### Aplicação Integrada ao Banco de Dados
 
 ![Aplicação](images/aplicacao-web-rds.jpeg)
-
-## Tecnologias
-
-- Amazon RDS
-- MySQL
-- Amazon EC2
-- Amazon VPC
-- Security Groups
