@@ -22,3 +22,5 @@ Repositório dedicado à documentação de laboratórios práticos realizados na
 | Arquitetura Escalável | Application Load Balancer (ALB), Auto Scaling, Amazon CloudWatch, Amazon EC2 | Alta Disponibilidade, Escalabilidade, Observabilidade |
 | Armazenamento Compartilhado | Amazon EFS, Amazon EC2 | Armazenamento Distribuído, Compartilhamento de Dados |
 | Amazon RDS | Amazon RDS (MySQL), Amazon EC2 | Banco de Dados Relacional, Alta Disponibilidade, Integração de Aplicações |
+| AWS Systems Manager Parameter Store com KMS | AWS Systems Manager (SSM), AWS Parameter Store, AWS KMS, AWS CloudShell, AWS CLI | Gerenciamento de Configurações, Gerenciamento de Segredos, Criptografia, Segurança em Nuvem |
+
