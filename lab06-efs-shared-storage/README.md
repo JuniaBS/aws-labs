@@ -52,20 +52,20 @@ Instância EC2 (AZ 2)
 
 ### VPC Configurada
 
-![VPC](images/vpc-configurada.jpeg)
+![VPC](Images/vpc-configurada.jpeg)
 
 ### Sub-rede Pública
 
-![Sub-rede](images/sub-rede-publica.jpeg)
+![Sub-rede](Images/sub-rede-publica.jpeg)
 
 ### Tabela de Rotas
 
-![Rotas](images/tabela-rotas.jpeg)
+![Rotas](Images/tabela-rotas.jpeg)
 
 ### Acesso SSH à Instância EC2
 
-![EC2](images/acesso-ec2.jpeg)
+![EC2](Images/acesso-ec2.jpeg)
 
 ### Compartilhamento de Arquivos com Amazon EFS
 
-![EFS](images/efs-compartilhado.jpeg)
+![EFS](Images/efs-compartilhado.jpeg)
