@@ -1,5 +1,7 @@
 # AWS Labs
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 Repositório dedicado à documentação de laboratórios práticos realizados na AWS, com foco em desenvolvimento backend, computação em nuvem, automação e arquitetura de soluções.
 
 ## Competências Desenvolvidas
