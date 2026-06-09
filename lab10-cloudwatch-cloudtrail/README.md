@@ -56,37 +56,37 @@ Amazon S3 (Logs de Auditoria)
 
 ### Arquitetura
 
-![Arquitetura](images/arquitetura.jpg)
+![Arquitetura](imagens/arquitetura.jpg)
 
 Arquitetura da solução implementada utilizando Amazon EC2, CloudWatch, SNS, CloudTrail e S3.
 
 ### Acesso SSH e Simulação de Carga
 
-![Stress-ng](images/stress-ng.jpg)
+![Stress-ng](imagens/stress-ng.jpg)
 
 Execução do stress-ng na instância EC2 para gerar alta utilização de CPU e validar o monitoramento configurado.
 
 ### Monitoramento da CPU
 
-![Monitoramento CPU](images/alarme-grafico.jpg)
+![Monitoramento CPU](imagens/alarme-grafico.jpg)
 
 Gráfico do Amazon CloudWatch demonstrando a utilização da CPU ultrapassando o limite configurado de 70%.
 
 ### Alarme Disparado
 
-![Alarme Disparado](images/em-alarme.jpg)
+![Alarme Disparado](imagens/em-alarme.jpg)
 
 Estado do alarme alterado para **"In Alarm"** após a utilização da CPU exceder o limite definido.
 
 ### Notificação por E-mail
 
-![Notificação SNS](images/email.jpg)
+![Notificação SNS](imagens/email.jpg)
 
 Recebimento automático da notificação enviada pelo Amazon SNS quando o alarme foi acionado.
 
 ### Logs de Auditoria
 
-![Logs CloudTrail](images/s3-logs.jpg)
+![Logs CloudTrail](imagens/s3-logs.jpg)
 
 Bucket Amazon S3 contendo os logs gerados automaticamente pelo AWS CloudTrail.
 
