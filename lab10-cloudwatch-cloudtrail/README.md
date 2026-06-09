@@ -71,7 +71,7 @@ Amazon S3 (Logs de Auditoria)
 
 ### Instalação do Stress-ng
 
-![Instalacao Stress-ng](imagens/instalacao-stress-ng.jpg)
+![Instalacao Stress-ng](imagens/instalacao-stess-ng.jpg)
 
 ### Simulação de Carga na CPU
 
