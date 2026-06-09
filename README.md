@@ -26,3 +26,4 @@ Repositório dedicado à documentação de laboratórios práticos realizados na
 | Amazon RDS | Amazon RDS (MySQL), Amazon EC2 | Banco de Dados Relacional, Alta Disponibilidade, Integração de Aplicações |
 | AWS Systems Manager Parameter Store com KMS | AWS Systems Manager (SSM), AWS Parameter Store, AWS KMS, AWS CloudShell, AWS CLI | Gerenciamento de Configurações, Gerenciamento de Segredos, Criptografia, Segurança em Nuvem |
 | Amazon S3 – Gerenciamento, Versionamento e Access Logs | Amazon S3 | Armazenamento de Objetos, Versionamento, Lifecycle Policies, URLs Pré-Assinadas, Auditoria e Monitoramento |
+| Monitoramento e Auditoria com CloudWatch e CloudTrail | Amazon EC2, Amazon CloudWatch, Amazon SNS, AWS CloudTrail, Amazon S3 | Monitoramento de Infraestrutura, Observabilidade, Alarmes e Métricas, Notificações Automáticas, Auditoria, Governança e Segurança em Nuvem |
