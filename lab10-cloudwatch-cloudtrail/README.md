@@ -67,49 +67,34 @@ Amazon S3 (Logs de Auditoria)
 
 ### Arquitetura
 
-![Arquitetura](imagens/arquitetura.png)
+![Arquitetura](imagens/arquitetura.jpg)
 
-Arquitetura da solução implementada utilizando Amazon EC2, CloudWatch, SNS, CloudTrail e S3.
+### Instalação do Stress-ng
 
-### Acesso SSH e Instalação do Stress-ng
-
-![Instalacao Stress-ng](imagens/instalacao-stress-ng.png)
-
-Conexão via SSH na instância EC2 e instalação da ferramenta stress-ng para geração de carga na CPU.
+![Instalacao Stress-ng](imagens/instalacao-stress-ng.jpg)
 
 ### Simulação de Carga na CPU
 
-![Stress-ng](imagens/stress-ng.png)
-
-Execução do stress-ng na instância EC2 para gerar alta utilização de CPU e validar o monitoramento configurado.
+![Stress-ng](imagens/stress-ng.jpg)
 
 ### Monitoramento da CPU
 
-![Monitoramento CPU](imagens/monitoramento-cpu.png)
-
-Gráfico do Amazon CloudWatch demonstrando a utilização da CPU ultrapassando o limite configurado de 70%.
+![Monitoramento CPU](imagens/alarme-grafico.jpg)
 
 ### Alarme Disparado
 
-![Alarme Disparado](imagens/alarme-disparado.png)
-
-Estado do alarme alterado para "Em Alarme" após a utilização da CPU exceder o limite definido.
+![Alarme Disparado](imagens/em-alarme.jpg)
 
 ### Notificação por E-mail
 
-![Notificacao SNS](imagens/notificacao-sns.png)
-
-Recebimento automático da notificação enviada pelo Amazon SNS quando o alarme foi acionado.
+![Notificacao SNS](imagens/email.jpg)
 
 ### Logs de Auditoria
 
-![Logs CloudTrail](imagens/cloudtrail-s3-logs.png)
-
-Bucket Amazon S3 contendo os logs gerados automaticamente pelo AWS CloudTrail.
+![Logs CloudTrail](imagens/s3-logs.jpg)
 
 ## Resultado
 
 Neste laboratório foi possível implementar uma solução completa de monitoramento e auditoria na AWS. A prática envolveu a criação de uma instância EC2, a configuração de alarmes no Amazon CloudWatch, o envio de notificações automáticas por e-mail através do Amazon SNS e a auditoria das atividades da conta utilizando AWS CloudTrail com armazenamento dos logs em um bucket Amazon S3.
 
 A atividade permitiu aplicar conceitos fundamentais de observabilidade, monitoramento, auditoria, segurança e governança em ambientes de nuvem, simulando um cenário próximo ao encontrado em ambientes corporativos.
-
