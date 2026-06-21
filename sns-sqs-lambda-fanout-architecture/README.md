@@ -16,7 +16,7 @@ Implementar uma arquitetura orientada a eventos utilizando Amazon SNS, Amazon SQ
 
 A arquitetura implementada utiliza o Amazon SNS como um hub central para distribuir mensagens para múltiplos consumidores utilizando o padrão Fan-Out. O fluxo inclui processamento paralelo com AWS Lambda, integração com Amazon SQS para análise de fraude e utilização de Dead-Letter Queue (DLQ) para tratamento de falhas.
 
-![Arquitetura](./images/sns-sqs-lambda-fanout-architecture.jpg)
+![Arquitetura](./imagem/sns-sqs-lambda-fanout-architecture.jpg)
 
 ## Funcionalidades
 
@@ -48,19 +48,19 @@ A arquitetura implementada utiliza o Amazon SNS como um hub central para distrib
 
 ### SNS - Assinaturas do Tópico
 
-![SNS Subscriptions](./images/sns-subscriptions.jpg)
+![SNS Subscriptions](./imagem/sns-subscriptions.jpg)
 
 ### SQS com Dead-Letter Queue (DLQ)
 
-![SQS DLQ](./images/sqs-dlq-configuration.jpg)
+![SQS DLQ](./imagem/sqs-dlq-configuration.jpg)
 
 ### Logs da Lambda de Inventário
 
-![CloudWatch Inventory](./images/cloudwatch-inventory-logs.jpg)
+![CloudWatch Inventory](./imagem/cloudwatch-inventory-logs.jpg)
 
 ### Logs da Lambda de Pagamento
 
-![CloudWatch Payment](./images/cloudwatch-payment-logs.jpg)
+![CloudWatch Payment](./imagem/cloudwatch-payment-logs.jpg)
 
 ## Resultado
 
